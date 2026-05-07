@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+  base: '/dokapet/',
   title: 'Dokapet',
   description: 'Pet project for doc systems',
   themeConfig: {

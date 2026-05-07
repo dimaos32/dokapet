@@ -11,8 +11,8 @@ node_modules
 
 # Build output
 dist
-.vitepress/dist
-.vitepress/cache
+**/.vitepress/dist/
+**/.vitepress/cache/
 
 # Environment / local files
 *.local
